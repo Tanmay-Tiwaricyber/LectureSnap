@@ -1,6 +1,3 @@
-Got it. Yeh **final production-level README.md** hai — clean, professional, GitHub pe directly paste kar sakte ho.
-
----
 
 # 🚀 LectureSnap ULTRA
 
