@@ -4,6 +4,7 @@
 > Turn any lecture into structured, downloadable notes — automatically.
 
 ---
+<a href="https://www.producthunt.com/products/lecturesnap-ultra-silent-programmer?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-lecturesnap-ultra-silent-programmer" target="_blank" rel="noopener noreferrer"><img alt="LectureSnap ULTRA — Silent Programmer - Stop taking notes. Let your lectures do it for you. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1120376&amp;theme=light&amp;t=1775882632796"></a>
 
 ## 🧠 Overview
 
